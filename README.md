@@ -12,7 +12,7 @@
 - 👯 Open to contribute to: **Open Source Airdrops (Tea.xyz, LayerEdge, 0G, dsb)**
 - 🧠 Learning: `Rust`, `AI Integration`, `Blockchain Infra`
 - 💡 Goals: Build automation tools that save your time and test everything automatically.
-- 📫 Reach me: **your@email.com** *(ganti ini ya kalau mau)*
+- 📫 Reach me: **t.me/Mr_v3n0mm** 
 
 ---
 
@@ -52,13 +52,10 @@
 
 ---
 
-### 🔗 Socials (tambahkan jika punya)
+### 🔗 Socials
 
 <p>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://x.com/mrv3n0mm">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
